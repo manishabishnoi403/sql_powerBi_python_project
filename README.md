@@ -31,8 +31,11 @@ This project explores **3.9M+ e-commerce orders** by combining **SQL** and **Pyt
 
 ##  Project Structure
  ├── notebooks/  Jupyter notebooks with EDA + SQL queries
+ 
  ├── data/  CSV files (not uploaded due to size)
+ 
  ├── powerbi/  Power BI dashboards
+ 
  └── README.md
 
 
