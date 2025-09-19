@@ -2,7 +2,7 @@
 
 This project explores **3.9M+ e-commerce orders** by combining **SQL** and **Python** for analysis, and **Power BI** for visualization.  
 
-## 🚀 Project Overview
+##  Project Overview
 - Imported **7 CSV datasets** (3.9M+ orders) into **MySQL Workbench**.  
 - Connected MySQL to **Jupyter Notebook** using MySQL Connector.  
 - Performed **Exploratory Data Analysis (EDA)** in Python using:
@@ -18,15 +18,21 @@ This project explores **3.9M+ e-commerce orders** by combining **SQL** and **Pyt
 - Analyzed **customer trends** and **seller performance**.  
 - Built **interactive dashboards in Power BI** for insights.  
 
-## 📊 Key Insights
+##  Key Insights
 - Identified **top spenders** and customer buying patterns.  
 - Calculated **moving averages** for sales trends.  
 - Evaluated **seller performance metrics**.  
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Database**: MySQL  
 - **Python Libraries**: Pandas, Matplotlib, Seaborn  
 - **Visualization**: Power BI  
 - **Environment**: Jupyter Notebook  
 
-## 📂 Project Structure
+##  Project Structure
+├── notebooks/ # Jupyter notebooks with EDA + SQL queries
+├── data/ # CSV files (not uploaded due to size)
+├── powerbi/ # Power BI dashboards
+└── README.md
+
+
